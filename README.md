@@ -12,6 +12,9 @@
 
 ---
 
+<img width="1909" height="1032" alt="image" src="https://github.com/user-attachments/assets/36a6062e-5a81-4228-b1c5-8ccfbbf65819" />
+
+
 ## 🌟 Features
 
 ### 🎨 Modern User Interface
